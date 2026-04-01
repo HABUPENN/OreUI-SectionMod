@@ -1,0 +1,2 @@
+# OreUI-SectionMod
+Minecraft統合版のOreUIでセクション装飾を使えるようにする方法
